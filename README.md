@@ -37,7 +37,7 @@ By the time you submit this project, you will have covered new ground in, and re
 ### SEI x UXDI
 
 - **Build a full stack web application**.  Must be your own work.
-- **Select a Project Idea of your own**.  Must at least have User Authentication and CRUD on a resource.
+- **Select a Project Idea with the UXDIs**.  Must at least have User Authentication and CRUD on a resource.
 - **Build both a client application and a server application**.
 - **Client application must be built with React**.
 - **Server application must be built with Node.js**.
