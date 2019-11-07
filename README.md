@@ -116,6 +116,6 @@ The presentation must be a **8-10 minute presentation** in which you answer the 
 - **[Git Team Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)**
 - **[Git Team Cheatsheet](https://jameschambers.co/writing/git-team-workflow-cheatsheet/)**
 - **[nodeJS Example projects](https://github.com/sqreen/awesome-nodejs-projects)**
-- **[MongooseJS](https://mongoosejs.com/docs/index.html)**
+- **[MongooseJS documentation](https://mongoosejs.com/docs/index.html)**
 
   
