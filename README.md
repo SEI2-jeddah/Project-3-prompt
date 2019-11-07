@@ -34,19 +34,64 @@ By the time you submit this project, you will have covered new ground in, and re
 
 ## Requirements
 
-### Option A: SEI x UXDI
+### SEI x UXDI
 
 - **Build a full stack web application**.  Must be your own work.
-- **[Select a Project Idea of your own](badir-projects.md)**.  Must at least have User Authentication and CRUD on a resource.
-- **Use technology stack templates**.  You may choose which tech stack.
-  - [Rails Template](https://github.com/wdi-red-coral/rails-template)
-  - [Rails API Template](https://github.com/wdi-red-coral/rails-api-template) with [React Template](https://github.com/wdi-red-coral/react-template)
-  - [Express API Template](https://github.com/wdi-red-coral/express-api-template) with [React Template](https://github.com/wdi-red-coral/react-template)
-- **Craft a `README.md` file that explains your app** to the Badir team for further development.
+- **Select a Project Idea of your own**.  Must at least have User Authentication and CRUD on a resource.
+- ***Build both a client application and a server application**.
+- **Client application must be built with React**.
+- **Server application must be built with Node.js**.
+- **Deploy on Heroku so application is live on the web**.
+- **Craft a `README.md` file that explains your app to the world**.
+
+
+### Technical Requirements
+
+- Data association
+- RESTful Routing
+- Express server 
+- Express to Mongo connection 
+
+
+
+
+#### Authentication
+- User must be able to sign up
+- User must be able to sign in
+- User must be able to change password
+- User must be able to sign out
+
+#### Resource of your choice
+- User must be able to create a resource
+- User must be able to edit a resource
+- User must be able to view all resources they created
+- User must be able to view a single resource they created
+- User must not be able to edit or delete other users' resources
+
+
+
+### Stretch Goals
+
+- Make application responsive
+- Use a React component library like [Ant Design](https://ant.design/docs/react/introduce), [Bootstrap React](https://react-bootstrap.github.io/), or [Material UI](https://material-ui.com/)
+- Use a CSS library like [Bootstrap (tutorial)](https://m.pardel.net/react-and-bootstrap-4-part-1-setup-navigation-d4767e2ed9f0)
+- [Seed database](https://gorails.com/episodes/intro-to-importing-from-csv) from CSV file of data
+- Use 3rd party API with [httparty](https://github.com/jnunemaker/httparty)
+- Allow users to upload image files 
+
+
+### Team Requirements
+
+- Every team member must have commits contributing to the project.  
+- Pair programming is allowed and should be noted in the commit by using `@github_username` of each student pairing
+- No single student should do a majority of the commits.
+
+
+------
 
 ### Necessary Deliverables
 
-Projects are due **Thursday, 1/8 at 10am**!  
+Projects are due **Thursday, 28/11 at 10am**!  
 
 Submissions will be submitted by posting into slack
 - a link to your deployed application 
@@ -54,18 +99,23 @@ Submissions will be submitted by posting into slack
 
 The presentation must be a **8-10 minute presentation** in which you answer the following questions:
   - What is the application about?
-  - What are the user stories for your application?
-  - What API did you choose to use?
   - Demo of the application
   - Walk through a piece of code
   - What was the most difficult part of the project?
   - What was your favorite part of the project
   - What would your team like to add next?
   
-### Stretch Goals
-
-- Mobile Responsive
-- High quality, professional design
-
+  
 ---
+
+
+
+## Useful Resources
+
+
+- **[Git Team Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)**
+- **[Git Team Cheatsheet](https://jameschambers.co/writing/git-team-workflow-cheatsheet/)**
+- **[Example projects](https://github.com/sqreen/awesome-nodejs-projects)**
+- **[MongooseJS](https://mongoosejs.com/docs/index.html)**
+
   
