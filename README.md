@@ -4,7 +4,7 @@
 
 ## Overview:
 
-Your team will be creating a full stack application for UXDI Strudents!
+Your team will be creating a full stack application for UXDI Students!
 
 **You will be working as a team for this project**, everyone must contribute.  If 1 person does not contribute or 1 person does all the work then the entire team will fail the project requirements.  If you pair program then please include the other persons github name in the commit.
 
